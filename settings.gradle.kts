@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TutionClassCounter"
+rootProject.name = "TuitionClassCounter"
 include(":app")
  
