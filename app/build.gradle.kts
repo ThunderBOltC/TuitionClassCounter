@@ -9,7 +9,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.tutionclasscounter"
+        applicationId = "com.example.tuitionclasscounter"
         minSdk = 23
         targetSdk = 36
         versionCode = 1
